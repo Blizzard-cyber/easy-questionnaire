@@ -1,0 +1,58 @@
+{
+	"list": [
+		{
+			"avatarList": ["/static/friend.jpg"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "你好啊，我有一些问题想请教一下！",
+				"time": "13：05"
+			},
+			"name": "zifeiyu"
+		},
+		{
+			"avatarList": ["/static/friend2.jpg"],
+			"lastMsg": {
+				"username": "Gray",
+				"msg": "你什么时间有空？",
+				"time": "13：08"
+			},
+			"name": "Gary"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "wangtao",
+				"msg": "请问这个是怎么完成？",
+				"time": "13：56"
+			},
+			"name": "班级20200802"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "zifeiyu",
+				"msg": "我去问问老师！",
+				"time": "13：01"
+			},
+			"name": "班级20210803"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "wuli",
+				"msg": "我已经完成啦！",
+				"time": "13：00"
+			},
+			"name": "班级20200809"
+		},
+		{
+			"avatarList": ["/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png", "/static/avatar.png"],
+			"lastMsg": {
+				"username": "wangsd",
+				"msg": "我们群里人真多！",
+				"time": "12：58"
+			},
+			"name": "班级20200801"
+		}
+	]
+}
